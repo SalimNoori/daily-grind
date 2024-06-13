@@ -152,6 +152,7 @@ if (urlParams.has("day")) {
   //from querystring
   myDay = urlParams.get("day");
 }
-myDay = urlParams.get("day");
+myDay = urlParams.get("day"); 
+
 
 
